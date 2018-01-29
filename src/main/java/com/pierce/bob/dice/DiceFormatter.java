@@ -1,4 +1,4 @@
-package com.pierce.bob.game_dice_roller;
+package com.pierce.bob.dice;
 
 import java.util.Arrays;
 

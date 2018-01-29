@@ -1,4 +1,4 @@
-package com.pierce.bob.game_dice_roller;
+package com.pierce.bob.dice;
 
 import org.eclipse.swt.widgets.Display;
 import org.eclipse.swt.widgets.Shell;

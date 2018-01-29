@@ -1,4 +1,4 @@
-package com.pierce.bob.game_dice_roller;
+package com.pierce.bob.dice;
 
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.custom.CLabel;
